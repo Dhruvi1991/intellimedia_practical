@@ -1,0 +1,2 @@
+rootProject.name='Intellimedia_practical'
+include ':app'

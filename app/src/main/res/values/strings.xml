@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intellimedia Practical</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_fullname">Full Name</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_country">Country</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="signout">Sign Out</string>
+    <string name="submit">Submit</string>
+    <string name="errorBlank">cannot be empty.</string>
+    <string name="errorSpace">cannot contain space.</string>
+    <string name="errorInvalid">is invailid.</string>
+    <string name="errorUserNotFound">User not found. Please sign up.</string>
+    <string name="errorIncorrectPassword">Password is incorrect.</string>
+    <string name="errorPasswordNotMatch">Password does not match.</string>
+    <string name="erroAlreadyPresent">already exists.</string>
+</resources>
